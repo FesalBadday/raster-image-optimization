@@ -29,6 +29,8 @@
 img {
   display: block;
   width: 100%;
+  height: auto;
+  aspect-ratio: attr(width) / attr(height);
   margin: 3rem auto;
 }
 ```
