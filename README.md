@@ -4,9 +4,9 @@
 
 **Author :** Fesal Badday
 
-**Repo :** [Github Repo](https://github.com/FesalBadday/cpnt201-a2)
+**Repo :** [Github Repo](https://github.com/FesalBadday/raster-image-optimization)
 
-**Site :** [Github Pages](https://FesalBadday.github.io/cpnt201-a2)
+**Site :** [Github Pages](https://FesalBadday.github.io/raster-image-optimization)
 
 **Information :**
 
