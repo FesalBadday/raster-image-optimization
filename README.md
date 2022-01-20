@@ -1,4 +1,4 @@
-# CPNT 201 Assignment 2 - Raster Image Optimization
+# Raster Image Optimization
 
 ---
 
